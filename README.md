@@ -29,4 +29,5 @@ Coulomb's Capsules is a game I submitted as part of the GMTK 2020 game jam and i
 ## Contact Info
 
 LinkedIn: https://www.linkedin.com/in/andrew-mcclean-108339137/
+
 Email: andrewmcclean97@gmail.com
