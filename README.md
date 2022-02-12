@@ -18,7 +18,9 @@ I worked as a full-stack developer during this project, I was in-charge of the f
 
 ### Coulomb's Capsules: GMTK Game Jam 2020 Submission
 
-![Coulomb's Capsules](./docs/images/CoulombImage.png)
+<div align="center">
+  <img src="./docs/images/CoulombImage.png" alt="Coulomb's Capsules" title="Coulomb's Capsules" width="959" height="501"/>
+</div>
 
 https://fishtail.itch.io/coloumbs-capsules
 
