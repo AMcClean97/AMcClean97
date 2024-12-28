@@ -1,9 +1,3 @@
-## About Me
-<div align="center">
-  <img src="./docs/images/Photo.jpg" alt="Me" title="Me" width="400" height="400"/>
-</div>
-My name is Andrew McClean and I am a postgrad computer science student with a background in electronic engineering. I will be graduating with a first class honours this summer. I am well-versed in multiple object-oriented programming languages (Python, Ruby, Java, and Bash) and full-stack web-development. I have experience working with Agile methodology and have been in several projects that utilized Scrum. I'm currently looking for opportunities to grow and develop more real-world experience and skills.
-
 ## Portfolio
 
 ### Bustimate: Estimating Dublin Bus Travel Times
